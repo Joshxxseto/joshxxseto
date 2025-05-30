@@ -17,7 +17,7 @@
 ## [**AR Museum Experience – Museo Memoria y Tolerancia**](https://www.youtube.com/watch?v=uqvkIJ95HP8)  
   - Mobile AR app that brings exhibits to life using real-world exhibition halls as markers.
   - I built AR scenes, handled Vuforia integration, and delivered a polished final build.
-  - [PlayStore](https://play.google.com/store/apps/details?id=com.Inmersys.MuseoMyT&hl=es_MX)
+  - Launched the app on both [AppStore](https://apps.apple.com/mx/app/ar-museo-myt/id6449684930) and [Play Store](https://play.google.com/store/apps/details?id=com.Inmersys.MuseoMyT&hl=es), with continuous updates adding new exhibition halls and content.
 
 ## [**XR Training – HBSA (Hidrovias do Brasil)**](https://www.youtube.com/watch?v=Aq3U7rCqtt8)
   - VR training modules for maritime safety including PPE checks, boat inspection, and emergency procedures.
@@ -26,6 +26,7 @@
 ## [**AR App – Animation Café**](https://apps.apple.com/mx/app/animation-cafe/id6477829741)  
   - Mobile app for a themed restaurant featuring character tracking and interactive content.
   - I integrated marker-based AR, optimized performance, and handled UI development.
+  - Launched app on both [AppStore](https://apps.apple.com/mx/app/animation-cafe/id6477829741) and [Play Store](https://play.google.com/store/apps/details?id=com.Inmersys.AnimationCafeAR) with continuous updates adding new characters and features.
 
 ## [**VR Training – CEMEX (Cement Chute Handling)**](https://www.youtube.com/watch?v=waQ3OzxUdCs)
   - Immersive VR training for cement truck operators focused on safety procedures and proper chute handling.
